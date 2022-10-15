@@ -1,6 +1,6 @@
 # Android-Dreams
  
-Using machine learning to train a Neural Network to distinguish between the different styles of art   
+Using machine learning to train a Neural Network to distinguish between the different styles (Currently 10) of art   
 and make a deduction of what the style of a certain piece of art is  
 E.G. Baroque, Surrealism, Pop Art etc
 
